@@ -1,5 +1,4 @@
-## Datasets
-
+# Datasets
 The [Monk](Monk) directory contains train and test splits of the MONK's problems datasets. 
 The datasets have already been one-hot encoded. 
 For information about the dataset itself, please refer to the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/MONK's+Problems).
